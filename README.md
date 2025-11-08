@@ -31,7 +31,7 @@ and make it able run render ServerSide Components.
     - For Storing Data
     - For Performing heavy queries, because social interaction features will be integrated into the App
 <br />  
-[Go to Official Website to learn more]("https://mongodb.com")
+[Go to Official Website to learn more](https://mongodb.com)
 
 #####
 
@@ -41,7 +41,7 @@ to perform the E2E (End To End) testing and the components testing
     - End-To-End (also know at E2E) Testing
     - Components Testing
 <br />  
-[Go to Official Website to learn more]("https://cypress.io)
+[Go to Official Website to learn more](https://cypress.io)
 
 #####
 
@@ -52,7 +52,7 @@ to manage the coins part of the application.
     - For Storing Data
     - For Performing heavy queries, because social interaction features will be integrated into the App
 <br />
-[Go to Official Website to learn more]("https://mongodb.com")
+[Go to Official Website to learn more](https://mongodb.com)
 
 #
 
